@@ -5,3 +5,5 @@ This repository contains the BSP skyline analysis XML used in:
 E.M. Volz and Siveroni, I.S., _Bayesian phylodynamic inference with complex models_
 
 [https://doi.org/10.1101/268052]( https://doi.org/10.1101/268052 )
+
+This analysis used five population sizes which followed a Jeffrey's prior. MCMC was run for 50mil iterations. 
